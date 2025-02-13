@@ -1,0 +1,1 @@
+A **Bank Management System API** is a backend service that allows secure handling of banking operations such as account management, transactions, fund transfers, and user authentication. It provides endpoints for customers, employees, and administrators to interact with banking data programmatically.
