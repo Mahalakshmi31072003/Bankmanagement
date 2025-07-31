@@ -30,7 +30,7 @@ MySQL – Database for storing account data
 Postman – For API testing
 
 📦 **Entities in the System**:
-1. BankAccount
+BankAccount
 id: Unique identifier
 
 accountHolderName: Name of the account owner
