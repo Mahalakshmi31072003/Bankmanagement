@@ -42,8 +42,12 @@ balance: Current account balance
 🔗 **REST API Endpoints** (Backend Interface)
 Method	Endpoint	Functionality
 POST	/api/accounts	Create a new account
+
 GET	/api/accounts	Get all accounts
+
 GET	/api/accounts/{id}	Get account by ID
+
 PUT	/api/accounts/{id}	Update account
+
 DELETE	/api/accounts/{id}	Delete account
 
