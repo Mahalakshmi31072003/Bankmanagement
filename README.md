@@ -41,6 +41,7 @@ balance: Current account balance
 
 🔗 **REST API Endpoints** (Backend Interface)
 Method	Endpoint	Functionality
+
 POST	/api/accounts	Create a new account
 
 GET	/api/accounts	Get all accounts
