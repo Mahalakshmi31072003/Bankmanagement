@@ -16,7 +16,7 @@ Update account information
 
 Delete an account
 
-(Optional) Deposit and withdraw money
+Deposit and withdraw money
 
 ⚙️ **Technology Stack**:
 Java – Primary programming language
